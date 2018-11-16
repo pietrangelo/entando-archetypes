@@ -19,7 +19,7 @@
         <connection>scm:git:git@github.com:pietrangelo/entando-archetypes.git</connection>
         <developerConnection>scm:git:git@github.com:pietrangelo/entando-archetypes.git</developerConnection>
         <url>https://github.com/pietrangelo/entando-archetypes</url>
-        <tag>v5.0.1</tag>
+	<tag>v5.0.3</tag>
     </scm>
     <developers>
         <developer>
